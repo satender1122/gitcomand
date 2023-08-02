@@ -1,0 +1,80 @@
+*what is diff bwt for while
+*Date is a class in java  
+
+base package= domain name.comapny name.project name
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+         Project Architecture(11/06/23)
+
+DTO                        |        DAO                |   service    |   Controller
+Data Transfer Object       | Data access object        |   Business   |   Main Method
+Encapsulation Classes      | database logic            |   Logic      | 
+or Entity Class            |                           |              |
+or POJO Classes            |                           |              |
+
+
+* All the Encapsulation classes pojo class but all the pojo class is not a encapsulation
+* pojo class is combination of encapsulation class and some extra features
+ 
+
+   # to generate primater constructer= alt+shift+s+r
+
+    # toString =alt+shift+ss+a
+
+   # alt+shift+s+r =geter seter
+
+
+      			* baeldung.com web site for j2e
+
+
+
+
+####################################################################################################################################################
+
+Qes1 ADVANTEGE OF JDBC
+-----
+ANS   1. We can connect java application with database . It is only 1 API in market which will connect jaava application with database.
+      2. 
+    
+Ques 2 difference b/t excute and execute update
+Qes3.  execute query and execute
+Qes 4
+
+##################################################################################################################
+
+                              GIT Commands
+          
+		@for create local repository
+		1= git init
+		2= git status
+		3= git add file name(add single file)
+		3= git add . (add multiple file)
+		4=git commit-m "message";  or/ git config--global user.email ' ???  '
+					       git config--global user.name '???'
+		5=git remote add origin ' link of repojrity  '
+		6=git push-u origin master
+		7= git branch--move master main (to change the branch command)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
